@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6{
 }
 .review__slide-name{
     color: #767676;
-    padding-top: 2.7rem;
+    padding-top: 3rem;
     font-weight: 300;
     font-size: 1.3rem;
     line-height: 115%;
@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6{
     height: .2rem;
     width: 13rem;
     position: absolute;
-    top: 65%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
     background: linear-gradient(90deg, rgba(185, 1, 96, 1) 0%, rgba(61, 91, 245, 1) 100%);
